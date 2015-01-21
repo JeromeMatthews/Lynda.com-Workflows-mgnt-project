@@ -8,5 +8,11 @@
     "url": "?.git"
   },
   "author": "Jerome Matthews",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-util": "^3.0.2"
+  },
+  "dependencies": {
+    "gulp": "^3.8.10"
+  }
 }
